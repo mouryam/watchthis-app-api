@@ -49,4 +49,6 @@ $ serverless deploy
 ```
 
 #### Maintainers
+The following API for WatchThis! app is maintained by Mourya Meda. Send me an [email][Email] if you have any questions.
+
 [Email]: mailto:medamourya@gmail.com
