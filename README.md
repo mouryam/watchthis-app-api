@@ -1,8 +1,8 @@
 # WatchThis! API
 The following api is created using the following serverless AWS Platform to build it:
--Lambda & API Gateway for our serverless API
--DynamoDB for our database
--Cognito for user authentication and securing our APIs
+        -Lambda & API Gateway for our serverless API
+        -DynamoDB for our database
+        -Cognito for user authentication and securing our APIs
 
 Based on the [Serverless Stack](http://serverless-stack.com) in order to create a full-stack serverless applications.
 This repo is for the serverless backend API that I built over the course of the tutorial in order to learn more about the framework
