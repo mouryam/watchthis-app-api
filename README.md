@@ -1,5 +1,6 @@
 # WatchThis! API
 The following api is created using the following serverless AWS Platform to build it:
+
         -Lambda & API Gateway for our serverless API
         -DynamoDB for our database
         -Cognito for user authentication and securing our APIs
